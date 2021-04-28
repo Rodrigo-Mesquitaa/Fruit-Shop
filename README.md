@@ -1,7 +1,7 @@
 # Fruit-Shop
-Web API CRUD - Shop Fruit: Realizado em Core 6
+Web API CRUD - Shop Fruit: Realizado em Dotnet 6
 
-API Realizada com DotNet Core 6.0
+API Realizada com DotNet DotNet 6.0
 
 Metodos CRUD utilizados.
 
